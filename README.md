@@ -13,8 +13,6 @@
 ## Usage
 * 完成次第
 
-## Contribution
-
 ## Licence
 
 "WordLeaf" is under  [MIT licence](https://github.com/dorabby/wordleaf.git)
